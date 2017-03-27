@@ -1,7 +1,6 @@
 # Repository
 
-Add the following repository to your build.gradle.
-
+Add the following repository to your build.gradle.　　
 repositories {　　
     mavenCentral()　　
     maven {　　
