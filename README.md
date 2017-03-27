@@ -8,6 +8,7 @@ repositories {
         url 'https://raw.github.com/jokerpiece/android-piececore-iot/master/app/repository'
     }
 }
+
 # Dependency
 Add the following dependency to your build.gradle.
 
